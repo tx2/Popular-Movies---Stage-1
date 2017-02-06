@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="refresh">Refresh</string>
+
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+
+    <string name="loading_error_message">Failed to get movies.\nPlease try again.</string>
+    
+    <string name="detail_title">Movie Detail</string>
+</resources>
